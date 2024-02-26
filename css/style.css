@@ -21,3 +21,16 @@ img{
    width: auto;
    background-color: rgb(107, 107, 107);
 }
+
+
+
+
+
+
+/* hover Arrow */
+.arrow_up:hover,
+.arrow_down:hover{
+   cursor: pointer;
+   transition: all 0.4s;
+   background-color: rgba(161, 161, 161, 0.875);
+}
