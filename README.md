@@ -1,1 +1,6 @@
-# js-array-carousel
+Carosello Mono Array
+===
+1. 
+2. 
+3. 
+4. 
